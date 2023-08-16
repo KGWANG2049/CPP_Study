@@ -1,0 +1,31 @@
+﻿  project2.cpp
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(18,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(25,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(27,23): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(33,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(36,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(38,23): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(69,36): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(106,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(133,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(133,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(162,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(162,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u65E0”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u6CD5”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u627E”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u5230”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u8FD9”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u4E2A”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u6587”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\u4EF6”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(214,17): warning C4566: 由通用字符名称“\uFF01”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u8BFB”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u53D6”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u6570”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u5B57”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u5931”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\u8D25”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(222,17): warning C4566: 由通用字符名称“\uFF01”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\project2.cpp(82): warning C4715: “Tentoother”: 不是所有的控件路径都返回值
+  project2.vcxproj -> C:\Users\wangk\OneDrive\桌面\cpp\project2\project2\x64\Debug\project2.exe
